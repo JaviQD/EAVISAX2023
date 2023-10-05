@@ -1,5 +1,5 @@
 <?php
-    class Conexio{
+    class Conexion{
 
         function ConexionBD(){
             $host = 'localhost';
